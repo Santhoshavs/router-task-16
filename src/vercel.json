@@ -1,0 +1,8 @@
+{
+    "redirects":[
+        {"source":"/all",
+        "destination":"/index.html",
+        "permanent":true
+    }
+    ]
+}
